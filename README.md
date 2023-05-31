@@ -3,7 +3,7 @@
 This repository contains the code for the project "Empirical Evaluation of Autoencoder Models for Anomaly Detection in Packet-based NIDS". The code and proposed framework are provided that can be used to reproduce our work for anomaly detection using Autoencoder in packet-based NIDS.
 
 ## Dataset
-https://drive.google.com/drive/folders/1PFFCg8EB-h4HS7QG8A2o0RtXiSW4GNXG?usp=sharing
+https://usf.box.com/s/lq5f9slvrazlxzz8mcpgwh5orphwjput
 
 ## Paper abstract
 
