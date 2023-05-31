@@ -10,8 +10,11 @@ This paper compares autoencoder models for anomaly detection in packet-based NID
 ## Project Structure
 `python
 |---- Dataset 
+
 |---- Source_Code
+
 |---- Hyperparameter_Tuning
+
 |---- README.md
 `
 ##
