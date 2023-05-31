@@ -8,9 +8,10 @@ Anomaly detection is critical for network security. Unsupervised learning models
 This paper compares autoencoder models for anomaly detection in packet-based NIDS. A methodological framework is presented for implementing an autoencoder-based network intrusion detection mechanism with packet data. A novel reconstruction error metric is proposed for autoencoders, which is evaluated at different threshold levels to compare the detection accuracies of network traffic anomalies. The effectiveness of autoencoder models is demonstrated on various network attacks and adversarial samples obtained from publicly available network intrusion data sets. The analysis highlights the strengths and limitations of different autoencoders for network traffic anomaly detection. The insights obtained from the empirical evaluation offer valuable guidance to researchers and practitioners aiming to develop an autoencoder-based network intrusion detection mechanism.
 
 ## Project Structure
+`python
 |---- Dataset 
 |---- Source_Code
 |---- Hyperparameter_Tuning
 |---- README.md
-
+`
 ##
