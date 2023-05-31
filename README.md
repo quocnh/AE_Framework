@@ -6,7 +6,7 @@ This repository contains the code for the project "Empirical Evaluation of Autoe
 
 **<p align="center">Figure 1: Network traffic anomaly detection framework using autoencoders.</p>**
 <p align="center">
-<img src="https://github.com/quocnh/AE_Framework/blob/main/AE_frame.png" width="1" />
+<img src="https://github.com/quocnh/AE_Framework/blob/main/AE_frame.png"/>
 </p>
 
 
