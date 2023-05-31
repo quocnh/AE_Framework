@@ -22,4 +22,13 @@ This paper compares autoencoder models for anomaly detection in packet-based NID
 |---- README.md
 ```
 ## Citation
+If you find this repository useful in your research, please cite the following articles as: 
 
+```
+@article{
+  title={Empirical Evaluation of Autoencoder Models for Anomaly Detection in Packet-based NIDS},
+  author={},
+  journal={},
+  year={2023}
+}
+```
