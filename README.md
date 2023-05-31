@@ -4,9 +4,9 @@ This repository contains the code for the project "Empirical Evaluation of Autoe
 
 ## Paper abstract
 
-**<p align="center">Figure 1: The overview of the tree-based IDS model.</p>**
+**<p align="center">Figure 1: Network traffic anomaly detection framework using autoencoders.</p>**
 <p align="center">
-<img src="[https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/blob/main/Figures/Tree-based_IDS_Overview.jpg](https://github.com/quocnh/AE_Framework/blob/main/AE_frame.png)" width="280" />
+<img src="https://github.com/quocnh/AE_Framework/blob/main/AE_frame.png" width="280" />
 </p>
 
 
