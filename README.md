@@ -29,8 +29,9 @@ If you find this repository useful in your research, please cite the following a
 ```
 @article{
   title={Empirical Evaluation of Autoencoder Models for Anomaly Detection in Packet-based NIDS},
-  author={},
-  journal={},
+  author={Hore, Soumyadeep; Nguyen, Quoc; Xu, Yulun; Shah, Ankit; Bastian, Nathaniel; Le, Trung},
+  journal={The 2023 6th IEEE Conference on Dependable and Secure Computing (IEEE DSC 2023)},
   year={2023}
 }
+https://doi.org/10.36227/techrxiv.24043608.v1
 ```
